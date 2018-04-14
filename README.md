@@ -1,6 +1,6 @@
 # Sineimation
-A procedural animation experiment using only trigonometry for movement.
-
-https://www.youtube.com/watch?v=9rmuEZ1M0KY
+A procedural animation experiment using only sine waves for movement.
 
 https://youtu.be/tlDIKlvqF6g
+
+![1](https://i.imgur.com/2xrwF1p.gif)
